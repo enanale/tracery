@@ -1,0 +1,27 @@
+{
+  "name": "tracery",
+  "main": "tracery.js",
+  "homepage": "https://github.com/galaxykate/tracery",
+  "authors": [
+    "Kate Compton"
+  ],
+  "description": "Tracery: a story-grammar generation library for javascript",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "tracery",
+    "story",
+    "grammar",
+    "generative"
+  ],
+  "license": "Apache 2",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
